@@ -37,8 +37,8 @@ This software was developed and implemented to replace the former "Ballot Box" s
 
 ## References
 
-- [ ] [Candidates Images](https://github.com/AbhishekVarghese/Elections_IITGoa/tree/master/Candidates)
-- [ ] [Images used in software](https://github.com/AbhishekVarghese/Elections_IITGoa/tree/master/Images)
+- [ ] [Candidates' Images](https://github.com/AbhishekVarghese/Elections_IITGoa/tree/master/Candidates)
+- [ ] [Images Used In Software](https://github.com/AbhishekVarghese/Elections_IITGoa/tree/master/Images)
 - [ ] [Code](https://github.com/AbhishekVarghese/Elections_IITGoa/tree/master/Code)
 
 😃😃😃😃 THANK YOU 😃😃😃😃
